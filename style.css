@@ -1,0 +1,548 @@
+header {
+    background-color: #66D4E5;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    background-image: url(imagens/imagem_fundo_header.jpg);
+
+}
+
+#nome_site {
+    margin: 100px;
+    text-align: center;
+}
+
+#imagem_logo {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 8%;
+    left: 10%;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+
+}
+
+#flood_zero_nome {
+    height: 80px;
+    width: 500px;
+    margin: 80px;
+    
+}
+
+
+#banner_exemplo1 {
+    position: absolute;
+    top: 366px;
+    left: 498px;
+    height: 100px;
+    width: 900px;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+#momento1 {
+    position: absolute;
+    top: 476px;
+    left: 45%;
+    height: 55px;
+    width: 170px;
+  
+}
+
+#botao_direita1 {
+    position: absolute;
+    top: 41%;
+    left: 75%;
+   
+
+}
+
+#botao_esquerda3 {
+    position: absolute;
+    top: 41%;
+    left: 22%;
+   
+
+}
+
+#banner_exemplo2 {
+    position: absolute;
+    top: 366px;
+    left: 498px;
+    height: 100px;
+    width: 900px;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+
+}
+
+#momento2 {
+    position: absolute;
+    top: 476px;
+    left: 45%;
+    height: 55px;
+    width: 170px;
+    
+}
+
+#botao_direita2 {
+    position: absolute;
+    top: 41%;
+    left: 75%;
+ 
+
+}
+
+#botao_esquerda1 {
+    position: absolute;
+    top: 41%;
+    left: 22%;
+   
+
+}
+
+#banner_exemplo3 {
+    position: absolute;
+    top: 366px;
+    left: 498px;
+    height: 100px;
+    width: 900px;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+
+}
+
+#momento3 {
+    position: absolute;
+    top: 476px;
+    left: 45%;
+    height: 55px;
+    width: 170px;
+   
+}
+
+#botao_direita3 {
+    position: absolute;
+    top: 41%;
+    left: 75%;
+    
+
+}
+
+#botao_esquerda2 {
+    position: absolute;
+    top: 41%;
+    left: 22%;
+   
+
+}
+
+#logo_sbnos {
+    height: 100px;
+    width: 100px;
+    
+
+}
+
+* {
+    text-align: center;
+}
+
+body {
+    background-color: #DFE5CC;
+}
+
+
+.aga2 {
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color: black;
+
+
+}
+
+.aga1 {
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color: black;
+
+}
+
+.pe {
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+
+    
+}
+
+#botao {
+    position: absolute;
+    top: 12%;
+    left: 88%;
+}
+
+#imagem_menu {
+    position: absolute;
+    top: 9%;
+    left: 86%;
+    height: 80px;
+    width: 30px;
+    
+}
+
+#tabela {
+    position: absolute;
+    top: 30%;
+    left: 87%;
+    background-color: #a6dbd7;
+
+}
+
+.gota {
+    width: 1000px;
+    margin: auto auto;
+    list-style-image: url(imagens/fundo_ponto.jpg);
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+ul {
+    list-style-image: url(imagens/fundo_ponto.jpg);
+}
+
+li {
+    margin: auto auto;
+    width: 1000px;
+    list-style-image: url(imagens/fundo_ponto.jpg);
+}
+
+#tabela_home {
+    padding: 10px;
+    
+}
+
+#iframe1 {
+    position: absolute;
+    top: 70%;
+    left: 250px;
+}
+
+
+#iframe1_ {
+    position: absolute;
+    top: 70%;
+    left: 350px;
+    width: 600px;
+    height: 450px;
+}
+
+#camera {
+    position: absolute;
+    top: 260px;
+    left: 100px;
+    width: 70px;
+    height: 60px;
+
+}
+
+#rota_alternativa {
+    position: absolute;
+    top: 260px;
+    left: 190px;
+    width: 70px;
+    height: 60px;
+}
+
+
+
+#iframe2 {
+    position: absolute;
+    top: 70%;
+    left: 1030px;
+
+}
+
+#iframe2_ {
+
+    position: absolute;
+    top: 1320px;
+    left: 650px;
+    width: 600px;
+    height: 450px;
+
+}
+
+
+
+
+
+#iframe3 {
+    position: absolute;
+    top: 1220px;
+    left: 250px;
+ 
+
+}
+
+#iframe3_ {
+
+    position: absolute;
+    top: 1960px;
+    left: 650px;
+    width: 600px;
+    height: 450px;
+
+}
+
+
+
+#iframe4 {
+    position: absolute;
+    top: 1220px;
+    left: 1030px;
+
+}
+
+#iframe4_ {
+
+    position: absolute;
+    top: 2600px;
+    left: 650px;
+    width: 600px;
+    height: 450px;
+
+}
+
+
+
+
+#iframe5 {
+    position: absolute;
+    top: 1770px;
+    left: 250px;
+
+}
+
+#iframe5_ {
+
+    position: absolute;
+    top: 3240px;
+    left: 650px;
+    width: 600px;
+    height: 450px;
+
+}
+
+
+
+#iframe6 {
+    position: absolute;
+    top: 1770px;
+    left: 1030px;
+
+}
+
+#iframe6_ {
+
+    position: absolute;
+    top: 3880px;
+    left: 650px;
+    width: 600px;
+    height: 450px;
+
+}
+
+#tabela_p_1 {
+
+    position: absolute;
+    top: 610px;
+    left: 30px;
+
+
+}
+
+#tabela_p_2 {
+
+    position: absolute;
+    top: 610px;
+    left: 800px;
+
+
+}
+
+
+#tabela_p_3 {
+
+    position: absolute;
+    top: 1150px;
+    left: 10px;
+
+
+}
+
+#tabela_p_4 {
+
+    position: absolute;
+    top: 1150px;
+    left: 750px;
+
+
+}
+
+#tabela_p_5 {
+
+    position: absolute;
+    top: 1700px;
+    left: 10px;
+
+
+}
+
+#tabela_p_6 {
+
+    position: absolute;
+    top: 1700px;
+    left: 750px;
+
+
+}
+
+
+
+
+
+
+
+#p1 {
+
+    position: absolute;
+    top: 1110px;
+    left: 650px;
+    width: 600px;
+    height: 450px;
+
+
+}
+
+#p2 {
+
+    position: absolute;
+    top: 1760px;
+    left: 650px;
+    width: 600px;
+    height: 450px;
+
+
+}
+
+#p3 {
+
+    position: absolute;
+    top: 2410px;
+    left: 650px;
+    width: 600px;
+    height: 450px;
+
+
+}
+
+#p4 {
+
+    position: absolute;
+    top: 3040px;
+    left: 650px;
+    width: 600px;
+    height: 450px;
+
+
+}
+
+#p5 {
+
+    position: absolute;
+    top: 3680px;
+    left: 650px;
+    width: 600px;
+    height: 450px;
+
+
+}
+
+#p6 {
+
+    position: absolute;
+    top: 4320px;
+    left: 650px;
+    width: 600px;
+    height: 450px;
+
+
+}
+
+
+
+
+
+#apac {
+    width: 100px;
+    height: 100px;
+}
+
+#gotas {
+    width: 200px;
+    height: 100px;
+}
+
+#cttu {
+    width: 200px;
+    height: 100px;
+}
+
+.imagens_prev_resp {
+   
+    height: 300px;
+    width: 300px;
+   
+    
+   
+}
+
+
+#textarea {
+
+    position: absolute;
+    top: 350px;
+    left: 860px;
+    width: 200px;
+    height: 110px;
+
+
+}
+
+#botao_enviar {
+
+    position: absolute;
+    top: 480px;
+    left: 910px;
+    width: 100px;
+    height: 30px;
+
+
+}
+
+#chat {
+
+    position: absolute;
+    top: 275px;
+    left: 1080px;
+    width: 70px;
+    height: 50px;
+
+
+}
+
+
+
+
